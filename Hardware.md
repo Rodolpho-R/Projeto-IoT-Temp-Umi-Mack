@@ -1,1 +1,7 @@
+![Diagrama](https://github.com/user-attachments/assets/3f95e978-f31c-44a8-a1c7-f01da4e47091)
 
+## Diagrama de montagem
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3f95e978-f31c-44a8-a1c7-f01da4e47091" width=700px />
+</div>
