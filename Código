@@ -15,11 +15,11 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 
-// Credenciais WiFi
-const char* ssid = "RodolphoUP";
-const char* password = "C0r0n4C0ml!mao";
+// Credenciais WiFi, inclua suas informações de rede Wifi
+const char* ssid = "*****";
+const char* password = "****";
 
-// Configuração do servidor MQTT (HiveMQ Cloud)
+// Configuração do servidor MQTT (HiveMQ Cloud, pode ser usado outro Broker MQTT, este é apenas um exemplo)
 const char* mqtt_server = "75572bc692324ba2a542276c9824b306.s1.eu.hivemq.cloud";
 const int mqtt_port = 8883;
 const char* mqtt_user = "hivemq.webclient.1731803195170";
