@@ -10,3 +10,4 @@ Este projeto utiliza um ESP32 e sensores DHT22 para monitorar a temperatura e a 
 2. Carregue o código no ESP32.
 3. O sistema irá monitorar a temperatura e umidade e enviar os dados para o broker MQTT.
 4. O relé será acionado caso os parâmetros estejam fora da faixa definida.
+5. Caso o usuário queira desligar ou ligar a luz sem considerar as medições, poderá usar o modo manual para fazer essas funções.
